@@ -1,2 +1,2 @@
-# controle-financeiro-simples
+# Controle Financeiro Simples
 Prática de HTML + CSS + JS básico
